@@ -9,18 +9,16 @@ This project consists of a simple weather dashboard that uses the OpenWeather AP
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * Bootstrap
-
 ## Deployed Link
 
-* 
+* https://htepelikian.github.io/weather-on-demand/
 
 
 ## Authors
 
 * **Hripsime Tepelikian** 
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
+- [Link to Github](https://github.com/htepelikian/weather-on-demand.git)
 
 ## License
 
