@@ -28,6 +28,6 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+* https://openweathermap.org/api
+* https://developer.mozilla.org/en-US/docs/Web/API
+* https://www.geeksforgeeks.org/weather-app-using-vanilla-javascript/
