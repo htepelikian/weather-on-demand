@@ -14,7 +14,7 @@ function initPage() {
     let searchHistory = JSON.parse(localStorage.getItem("search")) || [];
 
     // Assigning API to a value
-    const APIKey = "84b79da5e5d7c92085660485702f4ce8";
+    const APIKey = "";
 
     function getWeather(cityName) {
         // Link weather API to obtain current weather
@@ -97,7 +97,6 @@ function initPage() {
     })
 });
 }    
-
 // Display search history from local storage
 searchEl.addEventListener("click", function () {
     const searchTerm = cityEl.value;
